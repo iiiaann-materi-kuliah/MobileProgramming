@@ -9,7 +9,7 @@ According to Wikipedia, Java is a high-level, class-based, object-oriented progr
 According to Wikipedia, Oracle Corporation is an American multinational computer technology corporation headquartered in Austin, Texas. In 2020, Oracle was the second-largest software company in the world by revenue and market capitalization. The company sells database software and technology (particularly its own brands), cloud engineered systems, and enterprise software products, such as enterprise resource planning (ERP) software, human capital management (HCM) software, customer relationship management (CRM) software (also known as customer experience), enterprise performance management (EPM) software, and supply chain management (SCM) software.
 
 ## Requirements:
-* Netbeans
+* Netbeans 8.2
 * JDK 8u112 (32 bit recommended)
 * Oracle JME SDK
 * Windows (running smoothly on windows 10)
