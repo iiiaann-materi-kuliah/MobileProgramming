@@ -12,3 +12,4 @@ According to Wikipedia, Oracle Corporation is an American multinational computer
 * Netbeans
 * JDK 8u112 (32 bit recommended)
 * Oracle JME SDK
+* Windows (running smoothly on windows 10)
